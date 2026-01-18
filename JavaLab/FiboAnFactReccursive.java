@@ -36,11 +36,11 @@ public class FiboAnFactReccursive {
                 long fiboNonRec = sc.nextLong();
                 long resultNonRecFibo = ff.fibonacciNonRecursive(fiboNonRec);
                 System.out.println("\nSum of Fibonacci numbers up to " + fiboNonRec + " is: " + resultNonRecFibo);
-
                 break;
 
             default:
                 System.out.println("Invalid choice! Please select a valid option.");
+                sc.close();
                 break;
         }
 
