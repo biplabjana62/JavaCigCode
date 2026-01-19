@@ -44,3 +44,10 @@ public class Calculate {
 
     }
 }
+/*
+// To Compile and Run the Program:
+cd N:\JavaCigCode
+javac JavaLab\Calculate\Calculate.java
+java JavaLab.Calculate.Calculate
+
+*/
