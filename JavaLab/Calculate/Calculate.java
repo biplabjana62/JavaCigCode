@@ -1,18 +1,22 @@
 package JavaLab.Calculate;
+
 import java.util.Scanner;
 
 class AdditionSubtraction {
     public double calAdd(double a, double b) {
         return a + b;
     }
+
     public double calSub(double a, double b) {
         return a - b;
     }
 }
+
 class MultiplayDivision extends AdditionSubtraction {
     public double calMul(double a, double b) {
         return a * b;
     }
+
     public double calDiv(double a, double b) {
         if (b != 0) {
             return a / b;
@@ -37,6 +41,6 @@ public class Calculate {
         System.out.println("Subtraction: " + md.calSub(num1, num2));
         System.out.println("Multiplication: " + md.calMul(num1, num2));
         System.out.println("Division: " + md.calDiv(num1, num2));
-        
+
     }
 }
