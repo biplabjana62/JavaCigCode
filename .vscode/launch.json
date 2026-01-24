@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DisplayStudent",
+            "request": "launch",
+            "mainClass": "JavaLab.DisplayStudent",
+            "projectName": "JavaCigCode_23e6e9c9"
+        },
+        {
+            "type": "java",
+            "name": "ArrayOfObjects",
+            "request": "launch",
+            "mainClass": "ArrayOfObjects",
+            "projectName": "JavaCigCode_23e6e9c9"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicateFromSortedArray",
+            "request": "launch",
+            "mainClass": "RemoveDuplicateFromSortedArray",
+            "projectName": "JavaCigCode_23e6e9c9"
+        },
+        {
+            "type": "java",
             "name": "SortName",
             "request": "launch",
             "mainClass": "SortName",
