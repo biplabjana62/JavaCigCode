@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ShapeDemo",
+            "request": "launch",
+            "mainClass": "ShapeDemo",
+            "projectName": "JavaCigCode_23e6e9c9"
+        },
+        {
+            "type": "java",
+            "name": "SplitTokenizer",
+            "request": "launch",
+            "mainClass": "WordManipulation.SplitTokenizer",
+            "projectName": "JavaCigCode_23e6e9c9"
+        },
+        {
+            "type": "java",
+            "name": "SplitMethod",
+            "request": "launch",
+            "mainClass": "WordManipulation.SplitMethod",
+            "projectName": "JavaCigCode_23e6e9c9"
+        },
+        {
+            "type": "java",
+            "name": "SubhasGeri",
+            "request": "launch",
+            "mainClass": "SubhasGeri",
+            "projectName": "JavaCigCode_23e6e9c9"
+        },
+        {
+            "type": "java",
+            "name": "ChatAtSubString",
+            "request": "launch",
+            "mainClass": "WordManipulation.ChatAtSubString",
+            "projectName": "JavaCigCode_23e6e9c9"
+        },
+        {
+            "type": "java",
+            "name": "TestPerson",
+            "request": "launch",
+            "mainClass": "TestPerson",
+            "projectName": "JavaCigCode_23e6e9c9"
+        },
+        {
+            "type": "java",
             "name": "DisplayStudent",
             "request": "launch",
             "mainClass": "JavaLab.DisplayStudent",
