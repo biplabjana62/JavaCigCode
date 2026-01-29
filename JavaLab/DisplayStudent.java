@@ -28,7 +28,7 @@ class Student {
     }
 
     @Override
-    public String toString() {
+    public String toString() { //
         return "Student [usn=" + usn + ", name=" + name + ", branch=" + branch + ", phone=" + phone + ", percentage="
                 + percentage + "]";
     }
@@ -44,8 +44,8 @@ public class DisplayStudent {
         Student[] students = new Student[n];
         for (int i = 0; i < n; i++) {
             System.out.println("Enter details for student " + (i + 1) + ":");
-            students[i] = new Student();
-            students[i].setDetails(sc);
+            students[i] = new Student(); // create new Student object
+            students[i].setDetails(sc); // set details for the student
         }
         System.out.println("\nStudent Details:");
         for (int i = 0; i < students.length; i++) {
@@ -54,3 +54,12 @@ public class DisplayStudent {
 
     }
 }
+
+/*
+ * // To Compile and Run the Program:
+ * cd N:\JavaCigCode
+ * javac JavaLab\DisplayStudent.java
+ * java JavaLab.DisplayStudent
+ * e
+ * 
+ */
