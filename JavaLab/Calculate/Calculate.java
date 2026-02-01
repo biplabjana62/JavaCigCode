@@ -1,5 +1,7 @@
 package JavaLab.Calculate;
 
+/*
+10. Write a Java program to perform mathematical operations. Create a class called AddSub with methods to add and subtract. Create another class called MulDiv that extends from  AddSub class to use the member data of the super class. MulDiv should have methods to multiply and divide A main function should access the methods and perform the mathematical operations.*/
 import java.util.Scanner;
 
 class AdditionSubtraction {
@@ -45,9 +47,9 @@ public class Calculate {
     }
 }
 /*
-// To Compile and Run the Program:
-cd N:\JavaCigCode
-javac JavaLab\Calculate\Calculate.java
-java JavaLab.Calculate.Calculate
-
-*/
+ * // To Compile and Run the Program:
+ * cd N:\JavaCigCode
+ * javac JavaLab\Calculate\Calculate.java
+ * java JavaLab.Calculate.Calculate
+ * 
+ */
