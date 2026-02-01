@@ -37,8 +37,8 @@ public class ShapeDemo {
     }
 
     public void areaOfTriangleHeron() { // Area of Triangle using Heron's formula
-        double s = (s1 + s2 + s3) / 2;
-        double area = Math.sqrt(s * (s - s1) * (s - s2) * (s - s3));
+        double s = (s1 + s2 + s3) / 2; // semi-perimeter
+        double area = Math.sqrt(s * (s - s1) * (s - s2) * (s - s3)); // Heron's formula
         System.out.println("Area of Triangle (Using 3 Sides Formula): " + area);
     }
 
