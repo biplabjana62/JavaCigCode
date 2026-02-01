@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SortNames",
+            "request": "launch",
+            "mainClass": "JavaLab.SortNames",
+            "projectName": "JavaCigCode_23e6e9c9"
+        },
+        {
+            "type": "java",
+            "name": "SquareNumber",
+            "request": "launch",
+            "mainClass": "JavaLab.SquareNumber",
+            "projectName": "JavaCigCode_23e6e9c9"
+        },
+        {
+            "type": "java",
+            "name": "StringPalindrom",
+            "request": "launch",
+            "mainClass": "JavaLab.StringPalindrom",
+            "projectName": "JavaCigCode_23e6e9c9"
+        },
+        {
+            "type": "java",
+            "name": "ThisConstructor",
+            "request": "launch",
+            "mainClass": "ThisConstructor",
+            "projectName": "JavaCigCode_23e6e9c9"
+        },
+        {
+            "type": "java",
+            "name": "ThisCocstructor",
+            "request": "launch",
+            "mainClass": "ThisCocstructor",
+            "projectName": "JavaCigCode_23e6e9c9"
+        },
+        {
+            "type": "java",
+            "name": "StrinhManipulation",
+            "request": "launch",
+            "mainClass": "StrinhManipulation",
+            "projectName": "JavaCigCode_23e6e9c9"
+        },
+        {
+            "type": "java",
+            "name": "VectorDemo",
+            "request": "launch",
+            "mainClass": "VectorDemo",
+            "projectName": "JavaCigCode_23e6e9c9"
+        },
+        {
+            "type": "java",
+            "name": "CopyConstructor",
+            "request": "launch",
+            "mainClass": "CopyConstructor",
+            "projectName": "JavaCigCode_23e6e9c9"
+        },
+        {
+            "type": "java",
             "name": "ShapeDemo",
             "request": "launch",
             "mainClass": "ShapeDemo",
