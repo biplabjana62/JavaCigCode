@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DemoShap",
+            "request": "launch",
+            "mainClass": "JavaLab.ProgramShap.DemoShap",
+            "projectName": "JavaCigCode_23e6e9c9"
+        },
+        {
+            "type": "java",
+            "name": "TextCount",
+            "request": "launch",
+            "mainClass": "JavaLab.TextCount",
+            "projectName": "JavaCigCode_23e6e9c9"
+        },
+        {
+            "type": "java",
             "name": "SortNames",
             "request": "launch",
             "mainClass": "JavaLab.SortNames",
