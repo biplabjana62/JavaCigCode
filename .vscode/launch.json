@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TestSalary",
+            "request": "launch",
+            "mainClass": "JavaLab.RuntimePolymorphism.TestSalary",
+            "projectName": "JavaCigCode_23e6e9c9"
+        },
+        {
+            "type": "java",
+            "name": "SuperMain",
+            "request": "launch",
+            "mainClass": "SuperDemo.SuperMain",
+            "projectName": "JavaCigCode_23e6e9c9"
+        },
+        {
+            "type": "java",
             "name": "DemoShap",
             "request": "launch",
             "mainClass": "JavaLab.ProgramShap.DemoShap",
