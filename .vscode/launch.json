@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TestCalc",
+            "request": "launch",
+            "mainClass": "DemoPackage.TestCalc",
+            "projectName": "JavaCigCode_23e6e9c9"
+        },
+        {
+            "type": "java",
+            "name": "SingletonPattrn",
+            "request": "launch",
+            "mainClass": "SingletonPattrn",
+            "projectName": "JavaCigCode_23e6e9c9"
+        },
+        {
+            "type": "java",
             "name": "TestSalary",
             "request": "launch",
             "mainClass": "JavaLab.RuntimePolymorphism.TestSalary",
