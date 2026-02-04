@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExceptionHandling",
+            "request": "launch",
+            "mainClass": "JavaLab.ExceptionHandling",
+            "projectName": "JavaCigCode_23e6e9c9"
+        },
+        {
+            "type": "java",
             "name": "ProductOfTwoNumber",
             "request": "launch",
             "mainClass": "JavaLab.ProductOfTwoNumber",
