@@ -1,5 +1,5 @@
 package JavaLab;
-
+//  1. Write a program to read two numbers from user and print their product.
 import java.util.Scanner;
 
 public class ProductOfTwoNumber {
