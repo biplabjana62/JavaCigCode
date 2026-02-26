@@ -1,5 +1,4 @@
 package WordManipulation;
-
 public class ChatAtSubString {
     public static void main(String[] args) {
         String str ="This is a Cat.";
@@ -13,5 +12,12 @@ public class ChatAtSubString {
                 System.out.println(word);
             }
         }
+        System.out.println("writing from chrome web browser");
     }
 }
+/*
+! to compile
+? javac WordManipulation/ChatAtSubString.java
+todo: to run 
+? java WordManipulation.ChatAtSubString
+*/
