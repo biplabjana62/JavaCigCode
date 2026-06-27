@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TryCatchExample",
+            "request": "launch",
+            "mainClass": "TryCatchExample",
+            "projectName": "JavaCigCode_23e6e9c9"
+        },
+        {
+            "type": "java",
+            "name": "MultipleInheritanceDemo",
+            "request": "launch",
+            "mainClass": "MultipleInheritanceDemo",
+            "projectName": "JavaCigCode_23e6e9c9"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumber",
+            "request": "launch",
+            "mainClass": "PrimeNumber",
+            "projectName": "JavaCigCode_23e6e9c9"
+        },
+        {
+            "type": "java",
+            "name": "StudentMarksAnalyzingSystem",
+            "request": "launch",
+            "mainClass": "SoftwareEngineering.StudentMarksAnalyzing.StudentMarksAnalyzingSystem",
+            "projectName": "JavaCigCode_23e6e9c9"
+        },
+        {
+            "type": "java",
+            "name": "CourseRegistrationSystem",
+            "request": "launch",
+            "mainClass": "SoftwareEngineering.CourseReg.CourseRegistrationSystem",
+            "projectName": "JavaCigCode_23e6e9c9"
+        },
+        {
+            "type": "java",
+            "name": "SoftwareEntry",
+            "request": "launch",
+            "mainClass": "SoftwareEngineering.LibrarySystem.SoftwareEntry",
+            "projectName": "JavaCigCode_23e6e9c9"
+        },
+        {
+            "type": "java",
+            "name": "MainSystem",
+            "request": "launch",
+            "mainClass": "SoftwareEngineering.LibrarySystem.MainSystem",
+            "projectName": "JavaCigCode_23e6e9c9"
+        },
+        {
+            "type": "java",
+            "name": "TestLibrary",
+            "request": "launch",
+            "mainClass": "SoftwareEngineering.LibrarySystem.TestLibrary",
+            "projectName": "JavaCigCode_23e6e9c9"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListDemo",
+            "request": "launch",
+            "mainClass": "ArraylistJava.ArrayListDemo",
+            "projectName": "JavaCigCode_23e6e9c9"
+        },
+        {
+            "type": "java",
             "name": "ExceptionHandling",
             "request": "launch",
             "mainClass": "JavaLab.ExceptionHandling",
